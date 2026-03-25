@@ -5,7 +5,7 @@
 
 <!-- ANIMATED TYPING -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=D4AF37&size=28&center=true&vCenter=true&width=800&height=50&lines=Jyothi+Consultancy+Services;Premium+Software+Development+Company;Powered+by+Jyothi+Engineering+College;Building+Future+Through+Technology&duration=3000&pause=800" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=D4AF37&size=28&center=true&vCenter=true&width=800&height=50&lines=Jyothi+Consultancy+Services;Software+Development+Company;Powered+by+Jyothi+Engineering+College;Building+Future+Through+Technology&duration=3000&pause=800" />
 </p>
 
 <!-- SUBTITLE -->
